@@ -21,7 +21,7 @@ comment:  This document provides a brief introduction to Markdown.
 
 Überschriften werden durch (#) gekennzeichnet
 
-| Column 1 |
+
 | -------- | 
 | # H1     | 
 
