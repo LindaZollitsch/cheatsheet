@@ -95,6 +95,7 @@ Einfache Aufzählungen mit * zu Beginn der Zeile
 ```
 1. Apfel
 2. Birne
+
 ⋅⋅⋅⋅* Helene
 1. Kiwi
 
