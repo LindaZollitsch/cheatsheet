@@ -21,18 +21,20 @@ comment:  This document provides a brief introduction to Markdown.
 
 Überschriften werden durch (#) gekennzeichnet
 
+{{1-2}}
+************
 
+| # H1      | 
+| ## H2     | 
+| ### H3    | 
+| #### H4   | 
+| ##### H5  | 
+| ###### H6 | 
 
-| # H1     | 
+************
 
-
-># H1
->## H2
->### H3
->#### H4
->##### H5
->'###### H6'
-
+{{2}}
+************
 
 # H1
 ## H2
@@ -41,3 +43,14 @@ comment:  This document provides a brief introduction to Markdown.
 ##### H5
 ###### H6
 
+************
+
+## Schriftformen
+
+| *italic* | → *italic*
+
+| **bold** |→ **bold**
+
+| ***bold and italic*** | → ***bold and italic***
+
+| ~strike~ | → ~strike~
