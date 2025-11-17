@@ -48,15 +48,24 @@ comment:  This document provides a brief introduction to Markdown.
 
 ************
 
-## Schriftformen
+## Schriftformatierung
 
-```
-*italic* → *italic*
 
-**bold** → **bold**
+italic mit Sternchen * *  → *italic*
 
-***bold and italic*** → ***bold and italic***
+bold mit zwei Sternchen ** ** → **bold**
 
-~strike~ → ~strike~`
+bold and italic *** *** → ***bold and italic***
 
-```
+strike mit ~ ~ → ~strike~`
+
+
+
+
+
+## Listen
+
+
+## Tabellen
+
+## 
