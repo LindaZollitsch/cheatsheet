@@ -22,7 +22,7 @@ comment:  This document provides a brief introduction to Markdown.
 Überschriften werden durch (#) gekennzeichnet
 
 
-| -------- | 
+
 | # H1     | 
 
 
