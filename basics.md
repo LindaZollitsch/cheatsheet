@@ -21,6 +21,11 @@ comment:  This document provides a brief introduction to Markdown.
 
 Überschriften werden durch (#) gekennzeichnet
 
+| Column 1 |
+| -------- | 
+| # H1     | 
+
+
 ># H1
 >## H2
 >### H3
@@ -35,5 +40,4 @@ comment:  This document provides a brief introduction to Markdown.
 #### H4
 ##### H5
 ###### H6
-
 
