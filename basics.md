@@ -21,12 +21,13 @@ comment:  This document provides a brief introduction to Markdown.
 
 Überschriften werden durch (#) gekennzeichnet
 
->(# H1)
->(## H2)
->(### H3)
->(#### H4)
->(##### H5)
+># H1
+>## H2
+>### H3
+>#### H4
+>##### H5
 >'###### H6'
+
 
 # H1
 ## H2
