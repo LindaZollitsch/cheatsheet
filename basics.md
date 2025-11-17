@@ -31,7 +31,7 @@ comment:  This document provides a brief introduction to Markdown.
  #### H4   
  ##### H5  
  ###### H6  
- 
+
 ```
 
 ************
@@ -50,10 +50,13 @@ comment:  This document provides a brief introduction to Markdown.
 
 ## Schriftformen
 
-| *italic* | → *italic*
+```
+*italic* → *italic*
 
-| **bold** |→ **bold**
+**bold** → **bold**
 
-| ***bold and italic*** | → ***bold and italic***
+***bold and italic*** → ***bold and italic***
 
-| ~strike~ | → ~strike~
+~strike~ → ~strike~`
+
+```
