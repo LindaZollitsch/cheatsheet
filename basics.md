@@ -57,13 +57,53 @@ bold mit zwei Sternchen ** ** → **bold**
 
 bold and italic *** *** → ***bold and italic***
 
-strike mit ~ ~ → ~strike~`
-
-
+strike mit ~ ~ → ~strike~
 
 
 
 ## Listen
+
+Einfache Aufzählungen mit * zu Beginn der Zeile
+
+{{1-2}}
+************
+
+```
+* Apfel
+
+* Birne
+
+* Kiwi
+
+```
+************
+
+{{2-3}}
+************
+
+* Apfel
+
+* Birne
+
+* Kiwi
+
+************
+
+{{3-4}}
+************
+
+```
+1. Apfel
+2. Birne
+⋅⋅⋅⋅* Helene
+1. Kiwi
+
+```
+
+1. Apfel
+2. Birne
+⋅⋅⋅⋅* Helene
+1. Kiwi
 
 
 ## Tabellen
