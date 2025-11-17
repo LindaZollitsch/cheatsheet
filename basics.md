@@ -114,16 +114,33 @@ Einfache Aufzählungen mit * zu Beginn der Zeile
 
 ## Tabellen
 
+## Einfügen von Inhalten
 
+### Einfügen von Bildern
 
-## Einfügen von Links
+![alt-text](path)
+
+Gallerie: 
+![img1](url) ![img2](url) ![img3](url)
+![img4](url)
+![img5](url)
+
+### Einfügen von Audio:
+
+?[alt-text](url)
+
+### Einfügen von Videos
+
+!?[alt-text](path or url)
+
+### Einfügen von Links
 
 ```
-[I'm an inline-style link](https://www.google.com)
+[inline-style link](https://www.google.com)
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+[inline-style link with title](https://www.google.com "Google's Homepage")
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+[relative reference to a repository file](../blob/master/LICENSE)
 
 [You can use numbers for reference-style link definitions][1]
 
@@ -133,11 +150,11 @@ URLs and URLs in angle brackets will automatically get turned into links.
 http://www.example.com or <http://www.example.com>.
 
 ```
-[I'm an inline-style link](https://www.google.com)
+[inline-style link](https://www.google.com)
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+[inline-style link with title](https://www.google.com "Google's Homepage")
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+[relative reference to a repository file](../blob/master/LICENSE)
 
 [You can use numbers for reference-style link definitions][1]
 
