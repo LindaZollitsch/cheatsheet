@@ -95,15 +95,14 @@ Einfache Aufzählungen mit * zu Beginn der Zeile
 ```
 1. Apfel
 2. Birne
-
-⋅⋅⋅⋅* Helene
+    * Helene
 1. Kiwi
 
 ```
 
 1. Apfel
 2. Birne
-⋅⋅⋅⋅* Helene
+    * Helene
 1. Kiwi
 
 
